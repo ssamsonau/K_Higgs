@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # identify cases of the Higgs boson in ATLAS data
 
 [Identifying Higgs boson in ATLAS data](https://www.kaggle.com/c/higgs-boson) hosted by [Kaggle](https://www.kaggle.com/)
@@ -18,3 +19,7 @@ Files:
 * Predict.R - predict
 * Evaluate_Model.R
 
+=======
+K_Higgs
+=======
+>>>>>>> upstream/master
